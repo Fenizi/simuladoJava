@@ -1,0 +1,4 @@
+br\edu\etec\SistemPagamentos\teste\Ex2.class
+br\edu\etec\SistemPagamentos\model\PagamentoCartao.class
+br\edu\etec\SistemPagamentos\model\Pagamento.class
+br\edu\etec\SistemPagamentos\model\Pagamento$StatusPagamento.class
